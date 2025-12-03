@@ -21,6 +21,14 @@ This project demonstrates **CRUD operations, state management, and usage of Loca
 - Persist tasks using LocalStorage
 - Responsive design for desktop and mobile
 
+---
+
+## Screenshots 🖼️
+
+![Todo List Screenshot](screenshot/1.png)
+![Todo List Screenshot](screenshot/2.png)
+
+*Screenshot shows the main interface with tasks list.*
 
 ---
 
@@ -29,3 +37,26 @@ This project demonstrates **CRUD operations, state management, and usage of Loca
 1. Clone the repository:
 ```bash
 git clone https://github.com/dido-iyad-dev/Todolist.git
+```
+Navigate to the project folder:
+
+```bash
+cd Todolist
+```
+Install dependencies:
+
+```bash
+npm install
+```
+Start the development server:
+
+```bash
+npm start
+```
+
+Open your browser at http://localhost:3000
+
+Live Demo 🌐
+Check out the live version of the project here:
+!(https://todolist-iyad.netlify.app)
+
