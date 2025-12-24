@@ -15,7 +15,7 @@ const GoogleAd = () => {
         className="adsbygoogle"
         style={{ display: "block" }}
         data-ad-client="ca-pub-6161521257102741"
-        data-ad-slot="XXXXXXXXXX"
+        data-ad-slot="4275464881"
         data-ad-format="auto"
         data-full-width-responsive="true">
       </ins>
@@ -24,3 +24,4 @@ const GoogleAd = () => {
 };
 
 export default GoogleAd;
+
