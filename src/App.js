@@ -1,4 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
+import GoogleAd from "./components/GoogleAd";
+
 
 const UltimateTodoApp = () => {
   // ==================== STATE MANAGEMENT ====================
@@ -1258,7 +1260,7 @@ const UltimateTodoApp = () => {
         </div>
 
         {/* Footer */}
-        
+         <GoogleAd />
       </div>
 
       {/* CSS Animations */}
@@ -1326,6 +1328,7 @@ const UltimateTodoApp = () => {
           background: ${theme.secondary};
         }
       `}</style>
+        
     </div>
   );
 };
